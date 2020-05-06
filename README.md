@@ -31,3 +31,4 @@ Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
 #my first change in this file
 - Teach more about blabla
 - new change
+- additional last note
